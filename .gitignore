@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+checkpoints/
+data/
+bronze/
+silver/
+gold/
+*.log
